@@ -12,25 +12,42 @@ I would like to help and predict the price forecasting of the top crypto coins t
 
 The data source files are downloaded from Kaggle with the following details in each CSV files.
 
-date
-txVolume(USD)
-txCount
-marketcap(USD)
-price(USD)
-exchangeVolume(USD)
-activeAddresses
-medianTxValue(USD)
+Name
+Symbol
+Date
+High
+Low
+Open
+Close
+Volume
+Marketcap
 
-There are 9 CSV files 1 for each coins listed below.
+There are 23 CSV files 1 for each coins listed below.
+Aave
+BinanceCoin
+Bitcoin
+Cardano
+Chainlink
+Cosmos
+Cryptocomcoin
+Dogecoin
+EOS
+Ethereum
+Iota
+Litecoin
+Monero
+NEM
+Polkadot
+Solana
+Stellar
 Tether
-litecoin
-ethereum classic
-ethereum
-dogecoin
-dash
-bitcoin gold
-bitcoin
-binance coin
+Tron
+Uniswap
+USDcoin
+Wrappedbitcoin
+XRP
+
+
 
 **Questions they hope to answer with the data**
-What will be the price of 1 coin in each in 2025 and 2030?
+What will be the price of these coins in 2025 and 2030?
