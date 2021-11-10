@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "9298a1de",
+   "id": "c18b135d",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -23,7 +23,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "bfc1095b",
+   "id": "cd473187",
    "metadata": {},
    "outputs": [
     {
@@ -158,7 +158,7 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "8452898c",
+   "id": "6416dd29",
    "metadata": {},
    "outputs": [
     {
@@ -293,7 +293,7 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "379f82e3",
+   "id": "225b43fe",
    "metadata": {},
    "outputs": [
     {
@@ -428,7 +428,7 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "4312cf48",
+   "id": "ccefd1da",
    "metadata": {},
    "outputs": [
     {
@@ -563,7 +563,7 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "d5378721",
+   "id": "23d857f9",
    "metadata": {},
    "outputs": [
     {
@@ -698,7 +698,7 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "b2d136e9",
+   "id": "a6b7f312",
    "metadata": {},
    "outputs": [
     {
@@ -780,7 +780,7 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "0dea0de7",
+   "id": "8645e9c4",
    "metadata": {},
    "outputs": [
     {
@@ -862,7 +862,7 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "3322c24c",
+   "id": "00daec58",
    "metadata": {},
    "outputs": [
     {
@@ -944,7 +944,7 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "3b770690",
+   "id": "6915ea12",
    "metadata": {},
    "outputs": [
     {
@@ -1026,7 +1026,7 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "edc6490d",
+   "id": "800f0bfc",
    "metadata": {},
    "outputs": [
     {
@@ -1104,6 +1104,101 @@
     "df_DOT_close.sort_index(inplace=False)\n",
     "df_DOT_close.head()"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d371bfbd",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Plot Bitcoin Close\n",
+    "ax = df_BTC_close.plot(title='Bitcoin Close')\n",
+    "ax.set_xlabel('Date')\n",
+    "ax.set_ylabel('Price in USD')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a2359688",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Plot Ethereum Close\n",
+    "ax = df_ETH_close.plot(title='Ethereum Close')\n",
+    "ax.set_xlabel('Date')\n",
+    "ax.set_ylabel('Price in USD')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e9b341d0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Plot Cardano Close\n",
+    "ax = df_ADA_close.plot(title='Cardano Close')\n",
+    "ax.set_xlabel('Date')\n",
+    "ax.set_ylabel('Price in USD')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cacdcb50",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fd5284c6",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a8214a43",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "83ef553a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "167b9cc7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c7b2e7f5",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5801bf11",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
