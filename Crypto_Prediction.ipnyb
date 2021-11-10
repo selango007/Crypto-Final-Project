@@ -1,0 +1,53 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "a71a2a8f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd \n",
+    "%matplotlib inline \n",
+    "import matplotlib.pyplot as plt\n",
+    "import numpy as np\n",
+    "\n",
+    "# Read CSV data files\n",
+    "BTC_Data = pd.read_csv('Resources/coin_Bitcoin.csv', parse_dates= ['Date'])\n",
+    "ETH_Data = pd.read_csv('Resources/coin_Ethereum.csv', parse_dates= ['Date'])\n",
+    "ADA_Data = pd.read_csv('Resources/coin_Cardano.csv', parse_dates= ['Date'])\n",
+    "LINK_Data = pd.read_csv('Resources/coin_ChainLink.csv', parse_dates= ['Date'])\n",
+    "DOT_Data = pd.read_csv('Resources/coin_Polkadot.csv', parse_dates= ['Date'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c5076796",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "mlenv",
+   "language": "python",
+   "name": "mlenv"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
