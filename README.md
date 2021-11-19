@@ -2,11 +2,11 @@
 
 **Selected topic**
 
-The selected topic for the final project is Crypto Currency Price Forcasting
+The selected topic for the final project is Crypto Currency Price prediction for next 30 days.
 
 **Reason they selected the topic**
 
-I would like to help and predict the price forecasting of the top crypto coins to guide the investors with a predicted trend of the crypto prices.
+I would like to predict the Bitcoin price for the next 30 days based on the historical data available. Tyat way the investors would know when is the best time to invest in Bitcoin .
 
 **Description of the source of data**
 
@@ -50,4 +50,13 @@ XRP
 
 
 **Questions they hope to answer with the data**
-What will be the price of these coins in 2025 and 2030?
+Is the closing price and marketcap healthy for Bitcoin?
+What will be the price of Bitcoin in the next 30 days?
+Will there is a dip in price which will enable the investors to accumulate more Bitcoins?
+
+**Results**
+1. **Closing price of Bitcoin** reached more than $60000. However there is a huge drop in price to just above $30000 within few days interval.
+
+<img width="839" alt="Screen Shot 2021-11-18 at 8 49 59 PM" src="https://user-images.githubusercontent.com/85666764/142566843-8f3a04fc-528f-4ed1-9621-7d2ce8cdf410.png">
+
+3. 
