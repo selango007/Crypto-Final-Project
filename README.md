@@ -55,8 +55,16 @@ What will be the price of Bitcoin in the next 30 days?
 Will there is a dip in price which will enable the investors to accumulate more Bitcoins?
 
 **Results**
-1. **Closing price of Bitcoin** reached more than $60000. However there is a huge drop in price to just above $30000 within few days interval.
+1. **Closing price of Bitcoin** reached more than $60000. However there is a huge drop in pricefrm it's All Time High to just above $30000 within few days interval.
 
 <img width="839" alt="Screen Shot 2021-11-18 at 8 49 59 PM" src="https://user-images.githubusercontent.com/85666764/142566843-8f3a04fc-528f-4ed1-9621-7d2ce8cdf410.png">
 
-3. 
+2. **Market Cap of Bitcoin** is healthy based on the graph below which indicates that the Bitcoin price will be bullish.
+
+<img width="812" alt="Screen Shot 2021-11-18 at 8 54 43 PM" src="https://user-images.githubusercontent.com/85666764/142567249-b30bf6f7-54ab-4670-8104-6857eefb9026.png">
+
+3. **Bitcoin Price Preiction** is very volatile for the next 30 days. Within the next 10 days the price is expected to reach around $40000 and then drop back to average of $35000. Bitcoin will be a good buy 2 weeks from now. Bitcoin price prediction is performed using Linear Regression model.
+
+<img width="901" alt="Screen Shot 2021-11-18 at 8 59 19 PM" src="https://user-images.githubusercontent.com/85666764/142567543-9f9a7fc0-206d-4465-b463-b2d5115bc0d5.png">
+
+
