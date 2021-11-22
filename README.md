@@ -106,6 +106,6 @@ Will there is a dip in price which will enable the investors to accumulate more 
 
 
 
-
+[Link to Presentation]: https://docs.google.com/presentation/d/1se_cosGlRgnS0HZKGbgYLySv3NH_vjImZnafpj30iB8/edit?usp=sharing
 
 
