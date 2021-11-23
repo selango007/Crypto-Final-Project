@@ -63,7 +63,7 @@ Will there is a dip in price which will enable the investors to accumulate more 
 
 <img width="812" alt="Screen Shot 2021-11-18 at 8 54 43 PM" src="https://user-images.githubusercontent.com/85666764/142567249-b30bf6f7-54ab-4670-8104-6857eefb9026.png">
 
-3. **Bitcoin Price Preiction** is very volatile for the next 30 days. Within the next 10 days the price is expected to reach around $40000 and then drop back to average of $35000. Bitcoin will be a good buy 2 weeks from now. Bitcoin price prediction is performed using Linear Regression model.
+3. **Bitcoin Price Prediction** is very volatile for the next 30 days. Within the next 10 days the price is expected to reach around $40000 and then drop back to average of $35000. Bitcoin will be a good buy 2 weeks from now. Bitcoin price prediction is performed using Linear Regression model.
 
 <img width="901" alt="Screen Shot 2021-11-18 at 8 59 19 PM" src="https://user-images.githubusercontent.com/85666764/142567543-9f9a7fc0-206d-4465-b463-b2d5115bc0d5.png">
 
@@ -106,6 +106,6 @@ Will there is a dip in price which will enable the investors to accumulate more 
 
 
 
-
+[Link to Presentation]: https://docs.google.com/presentation/d/1se_cosGlRgnS0HZKGbgYLySv3NH_vjImZnafpj30iB8/edit?usp=sharing
 
 
